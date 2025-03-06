@@ -1,11 +1,11 @@
 const gifs = [
-    "./img/lol0.gif",
-    "./img/lol1.gif",
-    "./img/lol2.gif",
-    "./img/lol3.gif",
-    "./img/lol4.gif",
-    "./img/lol5.gif",
-    "./img/lol6.gif",
+    "/lol-generator/img/lol0.gif",
+    "/lol-generator/img/lol1.gif",
+    "/lol-generator/img/lol2.gif",
+    "/lol-generator/img/lol3.gif",
+    "/lol-generator/img/lol4.gif",
+    "/lol-generator/img/lol5.gif",
+    "/lol-generator/img/lol6.gif",
 ];
 
 type RandomGifProps = {

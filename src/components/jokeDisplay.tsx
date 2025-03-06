@@ -35,7 +35,7 @@ function JokeDisplay() {
             {error && (
                 <div className="error-container">
                     <p>Something went wrong, it's no joke :(</p>
-                    <img src="./img/sad-pikachu.gif" alt="Error GIF" />
+                    <img src="/lol-generator/img/sad-pikachu.gif" alt="Error GIF" />
                 </div>
             )}
 
